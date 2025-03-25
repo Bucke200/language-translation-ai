@@ -32,7 +32,7 @@ cd audio-translation-app
 npm install
 ```
 
-3. Create a `.env` file in the root directory and add your Sarvam AI API key:
+3. replace your api key in .env file in the root directory :
 ```
 VITE_SARVAM_API_KEY=your_api_key_here
 ```
